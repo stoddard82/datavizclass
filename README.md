@@ -1,1 +1,1 @@
-# datavizclass
+# DataVizClass
